@@ -7,6 +7,8 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 ## HEADING 3
 
+git deff demo under heading 3
+
 ## HEADING 4
 
 ## HEADING 5
