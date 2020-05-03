@@ -10,5 +10,6 @@ Sample website with plenty of files for demos
 git deff demo under heading 3
 
 ## HEADING 4
-
+changes to be stored under staging area but not commit
 ## HEADING 5
+changes to be made under working dir but not staged or committed.
