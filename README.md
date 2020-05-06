@@ -13,3 +13,7 @@ git deff demo under heading 3
 changes to be stored under staging area but not commit
 ## HEADING 5
 changes to be made under working dir but not staged or committed.
+
+## GIT REBASE TEST
+
+testing git rebase functionality.
