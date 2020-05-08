@@ -4,3 +4,5 @@ User-agent: *
 adding text for git branch demo.
 
 testing git rebase to be udpated to br2 branch
+
+testing git stash wih untracked files.
