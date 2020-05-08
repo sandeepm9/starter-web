@@ -17,3 +17,7 @@ changes to be made under working dir but not staged or committed.
 ## GIT REBASE TEST
 
 testing git rebase functionality.
+
+## GIT STASH DEMO (with untracked files)
+
+test git stash with untracked files. 
