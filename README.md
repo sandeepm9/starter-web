@@ -21,3 +21,6 @@ testing git rebase functionality.
 ## GIT STASH DEMO (with untracked files)
 
 test git stash with untracked files. 
+
+## GIT STASH BRANCH DEMO
+git stash branch demo
